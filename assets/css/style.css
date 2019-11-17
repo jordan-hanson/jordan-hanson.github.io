@@ -1,10 +1,10 @@
 body {
-    background-image: url("Developer/uofu/sandbox/Homework/jordan-hanson.github.io/assets/images/hotel-wallpaper.png");
+    background-image: src="assets/images/hotel-wallpaper.png";
     font-family: Georgia, 'Times New Roman', Times, serif;
     overflow: hidden;
 }
 .container {
-    background-image: url("Developer/uofu/sandbox/Homework/jordan-hanson.github.io/assets/images/hotel-wallpaper.png");
+    background-image: src="assets/images/hotel-wallpaper.png";
 }
 
 #header-name {
@@ -36,6 +36,7 @@ p{
     padding-right: 50px;
     font-family: 'Inconsolata', monospace;
     font-size: 18px;
+    float: right;
 }
 
 footer{
@@ -179,6 +180,7 @@ textarea{
     width: 175px;
     height: 175px;
     z-index: 1;
+    float: left;
 }
 
 .profile{
