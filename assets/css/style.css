@@ -1,10 +1,10 @@
 body {
-    background-image: src="assets/images/hotel-wallpaper.png";
+    background-image: url("assets/images/hotel-wallpaper.png");
     font-family: Georgia, 'Times New Roman', Times, serif;
     overflow: hidden;
 }
 .container {
-    background-image: src="assets/images/hotel-wallpaper.png";
+    background-image: url("assets/images/hotel-wallpaper.png");
 }
 
 #header-name {
