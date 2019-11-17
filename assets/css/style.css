@@ -1,10 +1,10 @@
 body {
-    background-image: url("assets/images/hotel-wallpaper.png");
+    background-image: url("../images/hotel-wallpaper.png");
     font-family: Georgia, 'Times New Roman', Times, serif;
     overflow: hidden;
 }
 .container {
-    background-image: url("assets/images/hotel-wallpaper.png");
+    background-image: url("../images/hotel-wallpaper.png");
 }
 
 #header-name {
@@ -135,31 +135,31 @@ textarea{
 }
 
 .box-1{
-    left: -125px;
+    left: -150x;
     position: relative;
 }
 
 .box-2{
-    left: 115px;
-    top: -196px;
+    left: 47px;
+    top: -100px;
     position: relative;
 }
 
 .box-3{
-    left: 350px;
-    top: -392px;
+    left: 440px;
+    top: -270px;
     position: relative;
 }
 
 .box-4{
-    left: -125px;
-    top: -370px;
+    left: -175px;
+    top: -175px;
     position: relative;
 }
 
 .box-5{
-    left: 115px;
-    top: -568px;
+    left: 225px;
+    top: -350px;
     position: relative;
 
 }
