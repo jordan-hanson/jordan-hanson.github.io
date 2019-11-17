@@ -1,0 +1,196 @@
+body {
+    background-image: url("Developer/uofu/sandbox/Homework/jordan-hanson.github.io/assets/images/hotel-wallpaper.png");
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    overflow: hidden;
+}
+.container {
+    background-image: url("Developer/uofu/sandbox/Homework/jordan-hanson.github.io/assets/images/hotel-wallpaper.png");
+}
+
+#header-name {
+    font-family: 'Inconsolata', monospace;
+    background: #4aaaa5;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    margin: 15px;
+    width: 250px;  
+    position: relative;
+    left: 215px;
+    top: 4px;
+}
+
+#bio-image {
+    margin: 0px;
+    margin-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 50px;
+    left: -5px;
+    float:left;
+    border: 5px;
+    height: 200px;
+    width: 200px;
+    transform: rotate(90deg);
+}
+
+p{
+    padding-right: 50px;
+    font-family: 'Inconsolata', monospace;
+    font-size: 18px;
+}
+
+footer{
+    position: fixed;
+    width: 100%;
+    height: 40px;
+    bottom: 0px;
+    left: 0px;
+    background-color: #666666;
+    text-align: center;    
+    border-top: 8px solid #4aaaa5;
+}
+
+#copyright-footer{
+    color: #dddddd;
+    padding-bottom: 10px;
+}
+
+.main-bio{
+    width: 960px;
+    height: 410px ;
+    background: #fff;
+    margin: 20px 100px 50px 220px;
+    padding: 20px 20px 150px 20px;
+    border: 2px solid #dddddd;
+    position: relative;
+    top: 55px;
+    float: left;
+    z-index: 1;
+    width: 
+}
+
+header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background: #fff;
+    width: 100%;
+    height: 75px;  
+    border-bottom: 2px solid #dddddd;
+    z-index: 2;
+}
+
+.content-header {
+    color: #4aaaa5;
+    font-family: 'Inconsolata', monospace;
+    font-size: 30px;
+}
+
+nav {
+    position: fixed;
+    color: #777777;
+    font-size: 20px;
+    right: 275px;
+    top: 20px;
+}
+
+li {
+    display: inline;
+    
+    padding: 0px;
+    margin: 0px;
+}
+    
+a:hover, a:visited, a:link, a:active {
+    text-decoration: none;
+    color: #777777;
+}
+
+input{
+    width: 800px;
+}
+
+fieldset{
+    position: relative;
+    background-color: white;
+    top: 100px;
+    height: 500px;
+}
+
+
+#submit-button{
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    color: white;
+    background-color: #4aaaa5;
+    border: 0px;
+    font-size: 20px;
+}
+
+textarea{
+    width:800px;
+    resize: none;
+}
+
+.box-1{
+    left: -125px;
+    position: relative;
+}
+
+.box-2{
+    left: 115px;
+    top: -196px;
+    position: relative;
+}
+
+.box-3{
+    left: 350px;
+    top: -392px;
+    position: relative;
+}
+
+.box-4{
+    left: -125px;
+    top: -370px;
+    position: relative;
+}
+
+.box-5{
+    left: 115px;
+    top: -568px;
+    position: relative;
+
+}
+
+.profile-buttons{
+    background-color: #4aaaa5;
+    color: white;
+    border: 0px;
+    width: 175px;
+    height: 50px;
+    z-index: 2;
+    position: relative;
+    right: -179.5px;
+    top: -45px;
+}
+
+.profile-image{
+    width: 175px;
+    height: 175px;
+    z-index: 1;
+}
+
+.profile{
+    position: absolute;
+}
+
+#rps-image{
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+}
+
+#rps-button{
+    left: 180.5px;
+}
